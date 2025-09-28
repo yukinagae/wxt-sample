@@ -1,3 +1,8 @@
-# WXT + React
+# WXT + Reactサンプル
 
-This template should help get you started developing with React in WXT.
+ブラウザのサイドパネルでAIとチャットするプロトタイプ
+
+```bash
+npm install
+npm run dev
+```
